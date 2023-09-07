@@ -24,8 +24,7 @@ function App() {
   };
 
   return (
-    <div
-      className="w-full h-screen flex flex-wrap justify-center items-center bg-[url('./images/bg-images.jpg')] bg-cover bg-no-repeat">
+    <div className="w-full h-screen flex flex-wrap justify-center items-center bg-[url('https://images.unsplash.com/photo-1622760274068-a26adafc984f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80')] bg-cover bg-no-repeat">
       <div className="w-full">
         <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
           <form
